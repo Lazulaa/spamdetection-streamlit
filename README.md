@@ -1,1 +1,1 @@
-Code for email spam detection 
+Code for email/SMS spam detection 
