@@ -1,7 +1,7 @@
+pip freeze > requirements.txt
 import streamlit as st
 import string
 import pickle
-python -m pip install nltk
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer  
