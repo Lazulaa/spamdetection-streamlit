@@ -9,7 +9,7 @@ from nltk.corpus import stopwords
 import nltk
 import seaborn as sns
 nltk.download('punkt_tab')
-nltk.download('stopwords'
+nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
