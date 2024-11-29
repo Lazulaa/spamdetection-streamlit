@@ -8,7 +8,7 @@ import string
 from nltk.corpus import stopwords
 import nltk
 import seaborn as sns
-nltk.download('punkt')
+nltk.download('punkt_tab')
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
